@@ -1,2 +1,2 @@
 # lieme-chrome-plugins
-猎么车间
+猎么插件
